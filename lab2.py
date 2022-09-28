@@ -1,3 +1,4 @@
+#Asylbek
 radius = int(input("радиус жаз "))
 
 if radius >= 0:
